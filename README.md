@@ -6,27 +6,10 @@ This is my first Microverse study repo.
 
 - Major languages - Html and CSS
 
-## Live Demo
-
-[Live Demo Link](https://github.com/white3d/Hello-world)
 
 
 ## Getting Started
-
-
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+Use this url to clone the repo on your terminal: https://github.com/white3d/Hello-world.git
 
 
 ## Authors
@@ -51,6 +34,6 @@ Kindly rate ⭐️ this project if you like it.
 - Special thanks to Microverse and my fellow Micronauts
 
 
-## 📝 License
+
 
 
